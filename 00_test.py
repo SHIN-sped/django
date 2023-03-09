@@ -1,5 +1,6 @@
 print("SeSAC GANGDONG CAMPUS")
 
+# ctrl + shift + ~
 '''
 >git init
 >git add .
